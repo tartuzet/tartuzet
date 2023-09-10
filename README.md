@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hola soy Gustavo Isidoro 👋
 
-<!--
-**tartuzet/tartuzet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://github.com/tartuzet/tartuzet/assets/20690869/7add290a-250e-41dd-9b4c-8525d1b475dd"  width="80%" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Sobre mi
+
+- 🔭 Actualmente trabajo como freelance
+- 🌱 Soy estudiante de [platzi.com](https://platzi.com/)
+
+
+ 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tartuzet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tartuzet&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
