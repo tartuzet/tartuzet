@@ -1,8 +1,12 @@
-### Hola soy Gustavo Isidoro 👋
 
 
+<div align="center">
+<h1 align="center">Hola, soy Gustavo 👋</h1>
+</div>
+
+<div align="center">
 <img src="https://github.com/tartuzet/tartuzet/assets/20690869/7add290a-250e-41dd-9b4c-8525d1b475dd"  width="80%" >
-
+</div>
 
 ## Sobre mi
 
