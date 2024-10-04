@@ -11,7 +11,6 @@
 
 ## Sobre mi
 
-- 🔭 Actualmente trabajo como freelance
 - 🌱 Soy estudiante de [platzi.com](https://platzi.com)
 
 
