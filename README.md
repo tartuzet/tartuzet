@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/tartuzet/tartuzet/assets/20690869/7add290a-250e-41dd-9b4c-8525d1b475dd"  width="80%" >
+<img width="1536" height="1024" alt="fullstack" src="https://github.com/user-attachments/assets/06633197-d0fc-4a4c-bfed-6ef229a151c4" />
 </div>
 
 
